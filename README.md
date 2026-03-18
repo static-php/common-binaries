@@ -1,4 +1,4 @@
-# static-binaries
+# common-binaries
 Build common linux and macOS tools statically, using StaticPHP.
 
 Thanks to [StaticPHP](https://github.com/crazywhalecc/static-php-cli) (formerly static-php-cli), we can easily build and port many static binary tools for Linux and macOS using a toolchain from building static PHP runtimes.
